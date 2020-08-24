@@ -58,13 +58,14 @@ Acesse: https://www.jetbrains.com/shop/eform/students
 E preencha assim: 
 
 ![Ajuste "Graduation date" de acordo com quando o curso irá acabar](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-form.png)
-
-*Ajuste "Graduation date" de acordo com quando pretende terminar o curso*
+|:--:| 
+| *Ajuste "Graduation date" de acordo com quando pretende terminar o curso* |
 
 ## 3. Acessando e-mail .edu
 Para entrar na caixa de entrada do e-mail educaional, acesse: https://login.microsoftonline.com/ e entre com suas credenciais, depois clique em OUTLOOK.
 
 ![Clicar em outlook](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-outlook.png)
+|:--:|
 
 ## 4. Vinculando a licença Ultimate
 Na sua caixa de entrada, você receberá um e-mail da JetBrains, desenvolvedora da IDE.
@@ -88,6 +89,8 @@ You will need to use this account whenever you want to access JetBrains tools.~~
 
 Clique no link de confirmação, que abrirá a página:
 ![Preencha o campo marcado com um e-mail](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-jetcongrats.png)
+|:--:|
+
 Preencha o campo marcado na imagem com o e-mail educacional. 
 
 Depois disso retorne a sua caixa de entrada e confirme novamente o e-mail.
@@ -108,29 +111,37 @@ Depois disso retorne a sua caixa de entrada e confirme novamente o e-mail.
 O link de confirmação pedirá outro formulário:
 
 ![Preencha todos os campos](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-jetacc.png)
+|:--:|
 
 Após preencher todos os campos e confirmar sua licença estará pronta para ser usada.
 
 ## 5. Instalando a IDE
 Download da IDE: https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows
 
-Após terminar o download, dê next até essa parte:
+Após terminar o download, dê next até a parte ***Configure your IntelliJ IDEA installation***:
 
 ![Marque essas opções](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-install1.png)
+|:--:|
+| Recomendadas as opções acima. |
 
-E marque as opções acima.
+E marque as opções:
+- Add launchers dir to path.
+- Download and install 32-bits JetBrains Runtime
+
 Ao chegar na parte de reiniciar, marque para reiniciar depois:
 
 ![Quero reiniciar manualmente depois](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-install2.png)
-
+|:--:|
 
 ## 6. Configurando a IDE com a licença
 Abra a IDE, aceite os termos de usuário, envie ou não envie informações anonimas e então dê next até essa parte e instale o AWS toolkit:
 
 ![Adicione o AWS toolkit](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-config1.png)
+|:--:|
 
 Depois entre com seu login e senha, usados na parte 3.
 
 ![E-mail e senha](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-config2.png)
+|:--:|
 
 E pronto, sua IDE está ativada. Pode reiniciar o computador assim que for possível.
