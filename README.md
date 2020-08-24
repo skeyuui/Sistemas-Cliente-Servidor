@@ -5,10 +5,10 @@ Download da IDE: https://www.jetbrains.com/idea/download/download-thanks.html?pl
 **Índice**
  1. [Pedindo acesso ao e-mail .edu para a unicid](#1-pedindo-acesso-ao-e-mail-edu-para-a-unicid)
  2. [Pedindo acesso ao plano ultimate da IntelliJ](#2-pedindo-acesso-ao-plano-ultimate-da-intellij)
- 2.1 [Acessando o e-mail .edu para confirmação do pedido](#21-acessando-e-mail-edu)
- 3. [Vinculando a licença ultimate](#3-vinculando-a-licença-ultimate)
- 4. [Instalando a IDE](#4-instalando-a-ide)
- 5. [Configurando a IDE com a licença](#5-configurando-a-ide-com-a-licença)
+ 3. [Acessando o e-mail .edu para confirmação do pedido](#3-acessando-e-mail-edu)
+ 4. [Vinculando a licença ultimate](#4-vinculando-a-licença-ultimate)
+ 5. [Instalando a IDE](#5-instalando-a-ide)
+ 6. [Configurando a IDE com a licença](#6-configurando-a-ide-com-a-licença)
 
 ## 1. Pedindo acesso ao e-mail .edu para a unicid
 **Caso você já tenha o e-mail: *RGM@aluno.cruzeirodosul.edu.br*, pular esta etapa.** 
@@ -52,12 +52,18 @@ Após completar os passos citados na resposta, o e-mail estará pronto para ser 
 
 ## 2. Pedindo acesso ao plano ultimate da IntelliJ
 Acesse: https://www.jetbrains.com/shop/eform/students
-E preencha assim: ![Ajuste "Graduation date" de acordo com quando o curso irá acabar](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-form.png)
+E preencha assim: 
+
+![Ajuste "Graduation date" de acordo com quando o curso irá acabar](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-form.png)
+
 *Ajuste "Graduation date" de acordo com quando pretende terminar o curso*
-## 2.1 Acessando e-mail .edu
+
+## 3 Acessando e-mail .edu
 Para entrar na caixa de entrada do e-mail educaional, acesse: https://login.microsoftonline.com/ e entre com suas credenciais, depois clique em OUTLOOK.
+
 ![Clicar em outlook](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-outlook.png)
-## 3. Vinculando a licença Ultimate
+
+## 4. Vinculando a licença Ultimate
 Na sua caixa de entrada, você receberá um e-mail da JetBrains, desenvolvedora da IDE.
 >>Assunto: **JetBrains Educational Pack confirmation**
 > 
@@ -96,19 +102,30 @@ Depois disso retorne a sua caixa de entrada e confirme novamente o e-mail.
 >The Drive to Develop~~ 
 
 O link de confirmação pedirá outro formulário:
+
 ![Preencha todos os campos](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-jetacc.png)
+
 Após preencher todos os campos e confirmar sua licença estará pronta para ser usada.
 
-## 4. Instalando a IDE
+## 5. Instalando a IDE
 Download da IDE: https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows
 Após terminar o download, dê next até essa parte:
+
 ![Marque essas opções](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-install1.png)
+
 E marque as opções acima.
 Ao chegar na parte de reiniciar, marque para reiniciar depois:
+
 ![Quero reiniciar manualmente depois](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-install2.png)
-## 5. Configurando a IDE com a licença
+
+
+## 6. Configurando a IDE com a licença
 Abra a IDE, aceite os termos de usuário, envie ou não envie informações anonimas e então dê next até essa parte e instale o AWS toolkit:
+
 ![Adicione o AWS toolkit](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-config1.png)
+
 Depois entre com seu login e senha, usados na parte 3.
+
 ![E-mail e senha](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-config2.png)
+
 E pronto, sua IDE está ativada. 
