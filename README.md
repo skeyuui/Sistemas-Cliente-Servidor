@@ -12,6 +12,7 @@ Download da IDE: https://www.jetbrains.com/idea/download/download-thanks.html?pl
 
 ## 1. Pedindo acesso ao e-mail .edu para a unicid
 **Caso você já tenha o e-mail: *RGM@aluno.cruzeirodosul.edu.br*, pular esta etapa.** 
+
 Enviar um e-mail para `acesso.aluno@cruzeirodosul.edu.br` seguindo o modelo:
 >Assunto: 
 >>**Solicitação de acesso a área educacional da Microsoft**
@@ -52,13 +53,14 @@ Após completar os passos citados na resposta, o e-mail estará pronto para ser 
 
 ## 2. Pedindo acesso ao plano ultimate da IntelliJ
 Acesse: https://www.jetbrains.com/shop/eform/students
+
 E preencha assim: 
 
 ![Ajuste "Graduation date" de acordo com quando o curso irá acabar](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-form.png)
 
 *Ajuste "Graduation date" de acordo com quando pretende terminar o curso*
 
-## 3 Acessando e-mail .edu
+## 3. Acessando e-mail .edu
 Para entrar na caixa de entrada do e-mail educaional, acesse: https://login.microsoftonline.com/ e entre com suas credenciais, depois clique em OUTLOOK.
 
 ![Clicar em outlook](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-outlook.png)
@@ -86,6 +88,7 @@ You will need to use this account whenever you want to access JetBrains tools.~~
 Clique no link de confirmação, que abrirá a página:
 ![Preencha o campo marcado com um e-mail](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-jetcongrats.png)
 Preencha o campo marcado na imagem com o e-mail educacional. 
+
 Depois disso retorne a sua caixa de entrada e confirme novamente o e-mail.
 >>Assunto: **Complete your account registration**
 >
