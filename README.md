@@ -32,7 +32,7 @@ Após alguns dias, a UNICID responderá:
 >
 >~~Seguem abaixo dados do cadastro:~~
 >
->**Nome do usuário: *RGM@aluno.cruzeirodosul.edu.br***
+>**Nome do usuário: *RGM@aluno.cruzeirodosul.edu.br*** <br/>
 >**Senha: *senha***
 >
 >~~Será solicitado uma nova senha, que deverá conter oito caracteres, sendo pelo menos uma letra maiúscula e um número~~. 
@@ -40,14 +40,14 @@ Após alguns dias, a UNICID responderá:
 >
 >~~Siga os links abaixo:~~
 >
->- ~~Para utilização do Office365:~~
+>- ~~Para utilização do Office365:~~ <br/>
 >~~office.com~~ 
 > 
 >- **Para acesso ao Azure Dev Tools for Teaching (ao entrar no site terá que aceitar os termos):
 > https://aka.ms/devtoolsforteaching <br/>
 > (É necessário fazer o “Aceite” do contrato de utilização, bem como entrar com todas as informações que forem solicitadas)**  
 >
->- ~~Uma vez logado no sistema, acesse:~~
+>- ~~Uma vez logado no sistema, acesse:~~ <br/>
 >~~https://portal.azure.com/~~
 
 Após completar os passos citados na resposta, o e-mail estará pronto para ser usado.
