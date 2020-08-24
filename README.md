@@ -1,2 +1,114 @@
-# Sistemas-Cliente-Servidor
-Aulas utilizando Spring + AWS + IntelliJ sobre o funcionamento de Sistemas Cliente/Servidor.
+
+# Sistemas Cliente/Servidor: Instalando a IDE IntelliJ
+Download da IDE: https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows
+
+**Índice**
+ 1. [Pedindo acesso ao e-mail .edu para a unicid](#1-pedindo-acesso-ao-e-mail-edu-para-a-unicid)
+ 2. [Pedindo acesso ao plano ultimate da IntelliJ](#2-pedindo-acesso-ao-plano-ultimate-da-intellij)
+ 2.1 [Acessando o e-mail .edu para confirmação do pedido](#21-acessando-e-mail-edu)
+ 3. [Vinculando a licença ultimate](#3-vinculando-a-licença-ultimate)
+ 4. [Instalando a IDE](#4-instalando-a-ide)
+ 5. [Configurando a IDE com a licença](#5-configurando-a-ide-com-a-licença)
+
+## 1. Pedindo acesso ao e-mail .edu para a unicid
+**Caso você já tenha o e-mail: *RGM@aluno.cruzeirodosul.edu.br*, pular esta etapa.** 
+Enviar um e-mail para `acesso.aluno@cruzeirodosul.edu.br` seguindo o modelo:
+>Assunto: 
+>>**Solicitação de acesso a área educacional da Microsoft**
+>
+>Corpo:
+>>Nome: *--seu nome aqui--*
+>>RGM: **17** *--seu rgm aqui--*
+>>Curso: Análise e desenvolvimento de sistemas
+>>Turma: *--**4A** ou **3A**--*
+>> Periodo: Matutino
+
+Após alguns dias, a UNICID responderá:
+>>Assunto: **RE: Solicitação de acesso a área educacional da Microsoft**
+>
+>~~Prezado (a) Aluno (a),~~
+>
+>~~Seguem abaixo dados do cadastro:~~
+>
+>**Nome do usuário: *RGM@aluno.cruzeirodosul.edu.br***
+>**Senha: *senha***
+>
+>~~Será solicitado uma nova senha, que deverá conter oito caracteres, sendo pelo menos uma letra maiúscula ~~~~e um número~~. 
+>~~Você poderá utilizar o mesmo usuário e senha para acessar os serviços do Office365 e os da~~~~ plataforma Azure.~~ 
+>
+>~~Siga os links abaixo:~~
+>
+>- ~~Para utilização do Office365:~~
+>~~office.com~~ 
+> 
+>- **Para acesso ao Azure Dev Tools for Teaching (ao entrar no site terá que aceitar os termos):
+> https://aka.ms/devtoolsforteaching 
+> (É necessário fazer o “Aceite” do contrato de utilização, bem como entrar com todas as informações que forem solicitadas)**  
+>
+>- ~~Uma vez logado no sistema, acesse:~~
+>~~https://portal.azure.com/~~
+
+Após completar os passos citados na resposta, o e-mail estará pronto para ser usado.
+
+## 2. Pedindo acesso ao plano ultimate da IntelliJ
+Acesse: https://www.jetbrains.com/shop/eform/students
+E preencha assim: ![Ajuste "Graduation date" de acordo com quando o curso irá acabar](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-form.png)
+*Ajuste "Graduation date" de acordo com quando pretende terminar o curso*
+## 2.1 Acessando e-mail .edu
+Para entrar na caixa de entrada do e-mail educaional, acesse: https://login.microsoftonline.com/ e entre com suas credenciais, depois clique em OUTLOOK.
+![Clicar em outlook](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-outlook.png)
+## 3. Vinculando a licença Ultimate
+Na sua caixa de entrada, você receberá um e-mail da JetBrains, desenvolvedora da IDE.
+>>Assunto: **JetBrains Educational Pack confirmation**
+> 
+> ~~Hi,~~
+>
+>~~You're receiving this email because your email address was used to register or update a JetBrains Educational Pack.~~
+>
+>**Please [follow this link](https://www.jetbrains.com/)  to confirm your intention.**
+>
+>~~After accepting the License Agreement, you will be asked to sign up for a JetBrains Account.  
+You will need to use this account whenever you want to access JetBrains tools.~~
+>
+>~~If you have any questions, please email us – we’re always happy to help.~~
+>
+>~~Kind Regards,  
+>The JetBrains team  
+>[www.jetbrains.com](https://www.jetbrains.com/)  
+>The Drive to Develop~~
+
+Clique no link de confirmação, que abrirá a página:
+![Preencha o campo marcado com um e-mail](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-jetcongrats.png)
+Preencha o campo marcado na imagem com o e-mail educacional. 
+Depois disso retorne a sua caixa de entrada e confirme novamente o e-mail.
+>>Assunto: **Complete your account registration**
+>
+>~~Hello!~~
+>
+>~~Thank you for creating your JetBrains Account.~~
+>
+>**To complete your registration, click the link below:  
+>[Confirm your account](https://account.jetbrains.com/)**
+>
+>~~Yours truly,  
+>The JetBrains Team  
+>[https://www.jetbrains.com](https://www.jetbrains.com)  
+>The Drive to Develop~~ 
+
+O link de confirmação pedirá outro formulário:
+![Preencha todos os campos](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-jetacc.png)
+Após preencher todos os campos e confirmar sua licença estará pronta para ser usada.
+
+## 4. Instalando a IDE
+Download da IDE: https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows
+Após terminar o download, dê next até essa parte:
+![Marque essas opções](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-install1.png)
+E marque as opções acima.
+Ao chegar na parte de reiniciar, marque para reiniciar depois:
+![Quero reiniciar manualmente depois](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-install2.png)
+## 5. Configurando a IDE com a licença
+Abra a IDE, aceite os termos de usuário, envie ou não envie informações anonimas e então dê next até essa parte e instale o AWS toolkit:
+![Adicione o AWS toolkit](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-config1.png)
+Depois entre com seu login e senha, usados na parte 3.
+![E-mail e senha](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-config2.png)
+E pronto, sua IDE está ativada. 
