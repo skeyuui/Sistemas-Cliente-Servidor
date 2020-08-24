@@ -18,11 +18,12 @@ Enviar um e-mail para `acesso.aluno@cruzeirodosul.edu.br` seguindo o modelo:
 >>**Solicitação de acesso a área educacional da Microsoft**
 >
 >Corpo:
->>Nome: *--seu nome aqui--*
->>RGM: **17** *--seu rgm aqui--*
->>Curso: Análise e desenvolvimento de sistemas
->>Turma: *--**4A** ou **3A**--*
->> Periodo: Matutino
+>
+>>Nome: *--seu nome aqui--* <br/>
+>>RGM: **17** *--seu rgm aqui--* <br/>
+>>Curso: Análise e desenvolvimento de sistemas <br/>
+>>Turma: *--**4A** ou **3A**--* <br/>
+>> Periodo: Matutino <br/>
 
 Após alguns dias, a UNICID responderá:
 >>Assunto: **RE: Solicitação de acesso a área educacional da Microsoft**
@@ -34,8 +35,8 @@ Após alguns dias, a UNICID responderá:
 >**Nome do usuário: *RGM@aluno.cruzeirodosul.edu.br***
 >**Senha: *senha***
 >
->~~Será solicitado uma nova senha, que deverá conter oito caracteres, sendo pelo menos uma letra maiúscula ~~~~e um número~~. 
->~~Você poderá utilizar o mesmo usuário e senha para acessar os serviços do Office365 e os da~~~~ plataforma Azure.~~ 
+>~~Será solicitado uma nova senha, que deverá conter oito caracteres, sendo pelo menos uma letra maiúscula e um número~~. 
+>~~Você poderá utilizar o mesmo usuário e senha para acessar os serviços do Office365 e os da plataforma Azure.~~ 
 >
 >~~Siga os links abaixo:~~
 >
@@ -43,7 +44,7 @@ Após alguns dias, a UNICID responderá:
 >~~office.com~~ 
 > 
 >- **Para acesso ao Azure Dev Tools for Teaching (ao entrar no site terá que aceitar os termos):
-> https://aka.ms/devtoolsforteaching 
+> https://aka.ms/devtoolsforteaching <br/>
 > (É necessário fazer o “Aceite” do contrato de utilização, bem como entrar com todas as informações que forem solicitadas)**  
 >
 >- ~~Uma vez logado no sistema, acesse:~~
@@ -112,6 +113,7 @@ Após preencher todos os campos e confirmar sua licença estará pronta para ser
 
 ## 5. Instalando a IDE
 Download da IDE: https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows
+
 Após terminar o download, dê next até essa parte:
 
 ![Marque essas opções](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-install1.png)
@@ -131,4 +133,4 @@ Depois entre com seu login e senha, usados na parte 3.
 
 ![E-mail e senha](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-config2.png)
 
-E pronto, sua IDE está ativada. 
+E pronto, sua IDE está ativada. Pode reiniciar o computador assim que for possível.
