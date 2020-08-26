@@ -11,7 +11,7 @@ Download da IDE: https://www.jetbrains.com/idea/download/download-thanks.html?pl
  6. [Configurando a IDE com a licença](#6-configurando-a-ide-com-a-licença)
 
 ## 1. Pedindo acesso ao e-mail .edu para a unicid
-**Caso você já tenha o e-mail: *RGM@aluno.cruzeirodosul.edu.br*, pular esta etapa.** 
+**Caso você já tenha o e-mail: *RGM@aluno.cruzeirodosul.edu.br*, pule esta etapa.** 
 
 Enviar um e-mail para `acesso.aluno@cruzeirodosul.edu.br` seguindo o modelo:
 >Assunto: 
