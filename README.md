@@ -144,4 +144,4 @@ Depois entre com seu login e senha, usados na parte 3.
 ![E-mail e senha](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-config2.png)
 |:--:|
 
-E pronto, sua IDE está ativada. Pode reiniciar o computador assim que for possível.
+E pronto, sua IDE está ativada. Pode reiniciar o computador assim que for conveniente.
