@@ -161,21 +161,25 @@ E adicione a dependência **Spring Web** na lista da direita.
 
 Ao terminar, clique em **GENERATE** e faça download do arquivo zip.
 
-O arquivo zip terá o nome passado pelo professor. Extraia o arquivo numa pasta de fácil acesso, onde seus projetos ficarão. **Recomendado uma pasta na raiz do disco para evitar erros. Exemplo: C:/aulas/aula1**
+O arquivo zip terá o nome passado pelo professor. Extraia o arquivo numa pasta de fácil acesso, onde seus projetos ficarão. **Recomendado uma pasta na raiz do disco para evitar erros. Exemplo: C:/aulasSC/aula1**
 
 Abra a IntelliJ, e na tela inicial clique em **Open or import**, e então aponte para a pasta extraída.
 
 Com o projeto aberto, comece a programar dentro da pasta **src > main > java**. 
 
-## 8. Instalando JDK pela IntelliJ
-Caso você não tenha a JDK instalada, não poderá rodar os programas.
-Para resolver isso, acesse: **File > Project Structure > Platform Settings > SDKs e clique em Download JDK**
+## 8. Instalando JDK pela IntelliJ 
+Caso você não tenha a JDK instalada, não poderá rodar os programas. 
+
+Para resolver isso, acesse: **File > Project Structure > Platform Settings > SDKs e clique em Download JDK** 
+
 Escolha o JDK da Oracle.
 
 ## 9. Executando o código
-Aperte o botão **Control** duas vezes, aparecerá um menu pedindo código.
-Digite: `mvn spring-boot:run`
-Isso criará um botão de PLAY e de STOP no topo da IDE, que é usado para iniciar e parar o projeto.
+Aperte o botão **Control** duas vezes, aparecerá um menu pedindo código. 
+
+Digite: `mvn spring-boot:run` 
+
+Isso criará um botão de PLAY e de STOP no topo da IDE, que é usado para iniciar e parar o projeto. 
 
 ![Botão iniciar, parar e console Run](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-spring5.png)
 |:--:|
