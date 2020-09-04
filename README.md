@@ -12,7 +12,7 @@ Download da IDE: https://www.jetbrains.com/idea/download/download-thanks.html?pl
  6. [Configurando a IDE com a licença](#6-configurando-a-ide-com-a-licença)
  7. [Começando projeto com Spring](#7-começando-projeto-com-spring)
  8. [Instalando JDK pela IntelliJ](#8-instalando-jdk-pela-intellij)
- 9. [Executando o código](#9-executando-o-c%C3%B3digo-pela-primeira-vez)
+ 9. [Executando o código](#9-executando-o-c%C3%B3digo)
 
 ## 1. Pedindo acesso ao e-mail .edu para a unicid
 **Caso você já tenha o e-mail: *RGM@aluno.cruzeirodosul.edu.br*, pule esta etapa.** 
