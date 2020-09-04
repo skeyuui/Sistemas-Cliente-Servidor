@@ -181,5 +181,5 @@ Digite: `mvn spring-boot:run`
 
 Isso criará um botão de PLAY e de STOP no topo da IDE, que é usado para iniciar e parar o projeto. 
 
-![Botão iniciar, parar e console Run](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-spring5.png)
+![Botão iniciar, parar e console Run](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-spring4.png)
 |:--:|
