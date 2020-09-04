@@ -1,4 +1,5 @@
 
+
 # Sistemas Cliente/Servidor: Instalando a IDE IntelliJ
 Download da IDE: https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows
 
@@ -145,3 +146,33 @@ Depois entre com seu login e senha, usados na parte 3.
 |:--:|
 
 E pronto, sua IDE está ativada. Pode reiniciar o computador assim que for conveniente.
+
+## 8. Começando projeto com Spring
+Acesse: [https://start.spring.io/](https://start.spring.io/)
+Configure assim:
+
+![enter image description here](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-spring1.png)
+|:--:|
+| *Project: Maven - Language: Java - Spring Boot: 2.3.3* <br /> *Group: com.unicid - Artifact e Name: ~~depende da aula, professor vai passar~~* <br /> *Packaging: Jar - Java: 8*  |
+E adicione a dependência **Spring Web** na lista da direita.
+
+Ao terminar, clique em **GENERATE** e faça download do arquivo zip.
+
+O arquivo zip terá o nome passado pelo professor. Extraia o arquivo numa pasta de fácil acesso, onde seus projetos ficarão. **Recomendado uma pasta na raiz do disco para evitar erros. Exemplo: C:/aulas/aula1**
+
+Abra a IntelliJ, e na tela inicial clique em **Open or import**, e então aponte para a pasta extraída.
+
+Com o projeto aberto, comece a programar dentro da pasta **src > main > java**. 
+
+## 8. Instalando JDK pela IntelliJ
+Caso você não tenha a JDK instalada, não poderá rodar os programas.
+Para resolver isso, acesse: **File > Project Structure > Platform Settings > SDKs e clique em Download JDK**
+Escolha o JDK da Oracle.
+
+## 9. Executando o código pela primeira vez
+Aperte o botão **Control** duas vezes, aparecerá um menu pedindo código.
+Digite: `mvn spring-boot:run`
+Isso criará um botão de PLAY e de STOP no topo da IDE, que é usado para iniciar e parar o projeto.
+
+![Botão iniciar, parar e console Run](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-spring5.png)
+|:--:|
