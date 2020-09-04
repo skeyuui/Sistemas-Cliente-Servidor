@@ -184,4 +184,4 @@ Isso criará um botão de PLAY e de STOP no topo da IDE, que é usado para inici
 ![Botão iniciar, parar e console Run](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-spring4.png)
 |:--:|
 
-**~~TODO: PATH do Windows~~**
+*~~TODO: PATH do Windows~~*
