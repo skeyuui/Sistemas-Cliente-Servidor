@@ -10,6 +10,9 @@ Download da IDE: https://www.jetbrains.com/idea/download/download-thanks.html?pl
  4. [Vinculando a licença ultimate](#4-vinculando-a-licença-ultimate)
  5. [Instalando a IDE](#5-instalando-a-ide)
  6. [Configurando a IDE com a licença](#6-configurando-a-ide-com-a-licença)
+ 7. [Começando projeto com Spring](#7-começando-projeto-com-spring)
+ 8. [Instalando JDK pela IntelliJ](#8-instalando-jdk-pela-intellij
+ 9. [Executando o código](#9-executando-o-c%C3%B3digo-pela-primeira-vez)
 
 ## 1. Pedindo acesso ao e-mail .edu para a unicid
 **Caso você já tenha o e-mail: *RGM@aluno.cruzeirodosul.edu.br*, pule esta etapa.** 
@@ -147,7 +150,7 @@ Depois entre com seu login e senha, usados na parte 3.
 
 E pronto, sua IDE está ativada. Pode reiniciar o computador assim que for conveniente.
 
-## 8. Começando projeto com Spring
+## 7. Começando projeto com Spring
 Acesse: [https://start.spring.io/](https://start.spring.io/)
 Configure assim:
 
@@ -169,7 +172,7 @@ Caso você não tenha a JDK instalada, não poderá rodar os programas.
 Para resolver isso, acesse: **File > Project Structure > Platform Settings > SDKs e clique em Download JDK**
 Escolha o JDK da Oracle.
 
-## 9. Executando o código pela primeira vez
+## 9. Executando o código
 Aperte o botão **Control** duas vezes, aparecerá um menu pedindo código.
 Digite: `mvn spring-boot:run`
 Isso criará um botão de PLAY e de STOP no topo da IDE, que é usado para iniciar e parar o projeto.
